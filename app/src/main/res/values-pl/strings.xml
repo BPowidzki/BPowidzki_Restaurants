@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BPowidzki_Restaurants</string>
+    <string name="buttonRegister">Zarejestruj się!</string>
+    <string name="buttonLoginText">Zaloguj się</string>
+    <string name="buttonSubmit">Wyślij</string>
+    <string name="buttonAddRestaurant">Dodaj restaurację</string>
+    <string name="passwordText">Hasło...</string>
+    <string name="errorTitle">Błąd!</string>
+    <string name="errorEmptyFields">Pola nie powinny być puste!</string>
+    <string name="errorLogincorrect">Nieprawidłowa nazwa użytkownika i/lub hasło.</string>
+</resources>

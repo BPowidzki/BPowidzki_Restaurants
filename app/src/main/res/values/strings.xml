@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BPowidzki_Restaurants</string>
+    <string name="loginText" translatable="false">Login...</string>
+    <string name="buttonLoginText">Login</string>
+    <string name="buttonRegister">Register now!</string>
+    <string name="emailText" translatable="false">E-mail...</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="buttonAddRestaurant">Add new restaurant</string>
+    <string name="passwordText">Password...</string>
+    <string name="errorTitle">Error!</string>
+    <string name="errorEmptyFields">The fields should not be empty!</string>
+    <string name="errorLogincorrect">Login and/or password is not correct.</string>
+</resources>
